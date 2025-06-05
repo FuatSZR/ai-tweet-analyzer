@@ -111,3 +111,10 @@ Uygulama, genellikle `http://localhost:3000` adresinde tarayıcınızda otomatik
 3.  "Tweet'i Analiz Et" butonuna tıklayın. Uygulama, tweet içeriğini çekecek, ChatGPT API ile analiz edecek ve sonuçları ekranda gösterecektir.
 4.  Analiz sonuçları (Kullanıcı Adı, Tweet İçeriği, Duygu, Özet, Gönderim Saati ve Tweet URL'si) göründükten sonra, "Google Sheets'e Ekle" butonuna tıklayarak bu verileri Google Sheets belgenize kaydedebilirsiniz.
 
+## 📸 Uygulamadan Ekran Görüntüleri
+Uygulama Arayüzü:
+![Uygulama Arayüzü](images/img_1.png)
+Analiz Sonuçları:
+![Analiz Sonuçları](images/img_2.png)
+Google Sheets:
+![Google Sheets](images/img_3.png)
