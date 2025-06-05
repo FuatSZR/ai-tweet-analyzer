@@ -113,12 +113,18 @@ Uygulama, genellikle `http://localhost:3000` adresinde tarayıcınızda otomatik
 
 ## 📸 Uygulamadan Ekran Görüntüleri
 Uygulama Arayüzü:
+
+
 ![Uygulama Arayüzü](images/img_1.png)
 
 
 Analiz Sonuçları:
+
+
 ![Analiz Sonuçları](images/img_2.png)
 
 
 Google Sheets:
+
+
 ![Google Sheets](images/img_3.png)
